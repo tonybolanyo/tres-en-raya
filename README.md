@@ -53,10 +53,10 @@ python play.py
 ## Cómo jugar
 
 El juego marca los turnos de forma alternativa entre ambos jugadores.
-Utiliza los número 1-9 para elegir en qué casilla quieres poner tu marca.
+Utiliza los número 1-9 para elegir en qué casilla quieres poner tu marca
+o haz clic con el botón izquierdo del ratón en la casilla.
 
-Si el tablero se llena sin ganador se vacía automáticamente para seguir
-jugando hasta que uno de los dos jugadores gane la partida.
+Puedes reiniciar la partida pulsando la tecla R.
 
 Si quieres abortar la partida en curso y salir del juego puedes hacerlo
 pulsando la tecla ESC o, simplemente, cerrando la ventana.
